@@ -1,0 +1,6 @@
+!pip install mplcursors
+!pip install ipywidgets
+!pip install nibabel
+!pip install dcm2niix
+!pip install pydicom
+!pip install monai
